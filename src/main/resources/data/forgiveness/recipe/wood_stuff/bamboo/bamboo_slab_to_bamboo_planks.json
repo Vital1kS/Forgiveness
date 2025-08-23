@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:bamboo_slab",
+    "minecraft:bamboo_slab"
+  ],
+  "result": {
+    "id": "minecraft:bamboo_planks"
+  }
+}

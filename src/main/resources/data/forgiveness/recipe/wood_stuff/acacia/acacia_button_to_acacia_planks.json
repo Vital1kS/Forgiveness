@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:acacia_button"
+  ],
+  "result": {
+    "id": "minecraft:acacia_planks"
+  }
+}

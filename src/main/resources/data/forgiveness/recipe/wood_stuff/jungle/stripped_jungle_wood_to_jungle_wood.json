@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:stripped_jungle_wood",
+    "minecraft:stripped_jungle_wood"
+  ],
+  "result": {
+    "id": "minecraft:jungle_wood",
+      "count": 2
+  }
+}

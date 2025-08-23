@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:polished_granite_stairs"
+  ],
+  "result": {
+    "id": "minecraft:polished_granite"
+  }
+}

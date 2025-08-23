@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:chiseled_tuff_bricks"
+  ],
+  "result": {
+    "id": "minecraft:tuff_bricks"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:stripped_oak_log",
+    "minecraft:stripped_oak_log"
+  ],
+  "result": {
+    "id": "minecraft:oak_log",
+      "count": 2
+  }
+}

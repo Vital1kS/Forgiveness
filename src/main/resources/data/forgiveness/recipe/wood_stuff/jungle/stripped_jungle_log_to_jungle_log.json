@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:stripped_jungle_log",
+    "minecraft:stripped_jungle_log"
+  ],
+  "result": {
+    "id": "minecraft:jungle_log",
+      "count": 2
+  }
+}

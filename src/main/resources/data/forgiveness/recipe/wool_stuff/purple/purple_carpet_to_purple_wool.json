@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:purple_carpet",
+    "minecraft:purple_carpet",
+    "minecraft:purple_carpet"
+  ],
+  "result": {
+    "id": "minecraft:purple_wool",
+    "count": 2
+  }
+}

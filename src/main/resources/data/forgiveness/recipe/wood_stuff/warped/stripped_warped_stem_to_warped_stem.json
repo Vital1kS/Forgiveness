@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:stripped_warped_stem",
+    "minecraft:stripped_warped_stem"
+  ],
+  "result": {
+    "id": "minecraft:warped_stem",
+      "count": 2
+  }
+}

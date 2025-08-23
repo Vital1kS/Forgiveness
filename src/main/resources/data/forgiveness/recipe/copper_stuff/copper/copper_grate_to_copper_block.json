@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:copper_grate"
+  ],
+  "result": {
+    "id": "minecraft:copper_block"
+  }
+}

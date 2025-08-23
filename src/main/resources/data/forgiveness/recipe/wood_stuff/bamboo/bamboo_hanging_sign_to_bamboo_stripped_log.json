@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:bamboo_hanging_sign"
+  ],
+  "result": {
+    "id": "minecraft:stripped_bamboo_block"
+  }
+}

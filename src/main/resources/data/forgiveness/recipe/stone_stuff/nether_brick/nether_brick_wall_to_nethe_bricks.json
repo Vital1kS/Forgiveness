@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:nether_brick_wall"
+  ],
+  "result": {
+    "id": "minecraft:nether_bricks"
+  }
+}

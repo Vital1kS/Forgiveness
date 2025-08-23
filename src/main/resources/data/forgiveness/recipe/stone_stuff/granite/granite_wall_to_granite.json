@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:granite_wall"
+  ],
+  "result": {
+    "id": "minecraft:granite"
+  }
+}

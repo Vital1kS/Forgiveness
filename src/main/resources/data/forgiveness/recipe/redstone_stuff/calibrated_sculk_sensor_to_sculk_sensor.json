@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      "minecraft:calibrated_sculk_sensor"
+    ],
+    "result": {
+      "id": "minecraft:sculk_sensor"
+    }
+  }

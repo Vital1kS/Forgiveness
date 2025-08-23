@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:bamboo_mosaic_stairs"
+  ],
+  "result": {
+    "id": "minecraft:bamboo_mosaic"
+  }
+}

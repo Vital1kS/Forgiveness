@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:jungle_hanging_sign"
+  ],
+  "result": {
+    "id": "minecraft:stripped_jungle_log"
+  }
+}

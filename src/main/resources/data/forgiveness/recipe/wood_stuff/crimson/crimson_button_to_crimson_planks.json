@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:crimson_button"
+  ],
+  "result": {
+    "id": "minecraft:crimson_planks"
+  }
+}

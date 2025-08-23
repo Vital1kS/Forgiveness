@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:deepslate_brick_wall"
+  ],
+  "result": {
+    "id": "minecraft:deepslate_bricks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:dark_oak_stairs"
+  ],
+  "result": {
+    "id": "minecraft:dark_oak_planks"
+  }
+}

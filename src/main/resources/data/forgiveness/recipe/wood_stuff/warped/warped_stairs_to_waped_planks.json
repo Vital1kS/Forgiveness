@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:warped_stairs"
+  ],
+  "result": {
+    "id": "minecraft:warped_planks"
+  }
+}

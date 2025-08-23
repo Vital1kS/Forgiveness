@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "#minecraft:beds"
+  ],
+  "result": {
+    "id": "minecraft:white_bed"
+  }
+}

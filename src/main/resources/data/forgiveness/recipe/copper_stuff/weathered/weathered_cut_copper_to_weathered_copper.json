@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:weathered_cut_copper"
+  ],
+  "result": {
+    "id": "minecraft:weathered_copper"
+  }
+}

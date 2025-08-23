@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:exposed_cut_copper_stairs"
+  ],
+  "result": {
+    "id": "minecraft:exposed_cut_copper"
+  }
+}

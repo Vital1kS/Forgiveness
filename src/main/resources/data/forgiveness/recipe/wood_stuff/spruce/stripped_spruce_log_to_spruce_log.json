@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:stripped_spruce_log",
+    "minecraft:stripped_spruce_log"
+  ],
+  "result": {
+    "id": "minecraft:spruce_log",
+      "count": 2
+  }
+}

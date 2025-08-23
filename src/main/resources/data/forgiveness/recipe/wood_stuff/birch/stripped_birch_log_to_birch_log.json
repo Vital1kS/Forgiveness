@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:stripped_birch_log",
+    "minecraft:stripped_birch_log"
+  ],
+  "result": {
+    "id": "minecraft:birch_log",
+      "count": 2
+  }
+}

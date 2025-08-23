@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:brown_carpet",
+    "minecraft:brown_carpet",
+    "minecraft:brown_carpet"
+  ],
+  "result": {
+    "id": "minecraft:brown_wool",
+    "count": 2
+  }
+}

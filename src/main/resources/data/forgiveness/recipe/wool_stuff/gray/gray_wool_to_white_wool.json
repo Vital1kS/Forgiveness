@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:gray_wool"
+  ],
+  "result": {
+    "id": "minecraft:white_wool"
+  }
+}

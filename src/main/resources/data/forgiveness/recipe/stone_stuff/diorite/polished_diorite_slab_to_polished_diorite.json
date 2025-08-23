@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:polished_diorite_slab",
+    "minecraft:polished_diorite_slab"
+  ],
+  "result": {
+    "id": "minecraft:polished_diorite"
+  }
+}

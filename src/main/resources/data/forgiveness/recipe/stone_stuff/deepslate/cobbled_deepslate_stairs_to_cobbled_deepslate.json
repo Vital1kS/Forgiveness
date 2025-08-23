@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:cobbled_deepslate_stairs"
+  ],
+  "result": {
+    "id": "minecraft:cobbled_deepslate"
+  }
+}

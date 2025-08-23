@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:warped_button"
+  ],
+  "result": {
+    "id": "minecraft:warped_planks"
+  }
+}

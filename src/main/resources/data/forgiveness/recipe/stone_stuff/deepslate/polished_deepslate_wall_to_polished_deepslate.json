@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:polished_deepslate_wall"
+  ],
+  "result": {
+    "id": "minecraft:polished_deepslate"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:cherry_hanging_sign"
+  ],
+  "result": {
+    "id": "minecraft:stripped_cherry_log"
+  }
+}

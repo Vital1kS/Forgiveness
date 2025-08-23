@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:dark_oak_fence",
+    "minecraft:dark_oak_fence",
+    "minecraft:dark_oak_fence"
+  ],
+  "result": {
+    "id": "minecraft:dark_oak_planks",
+    "count": 5
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:deepslate_brick_stairs"
+  ],
+  "result": {
+    "id": "minecraft:deepslate_bricks"
+  }
+}

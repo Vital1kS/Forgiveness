@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:stripped_acacia_wood",
+    "minecraft:stripped_acacia_wood"
+  ],
+  "result": {
+    "id": "minecraft:acacia_wood",
+      "count": 2
+  }
+}

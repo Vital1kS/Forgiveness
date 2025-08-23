@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:yellow_carpet",
+    "minecraft:yellow_carpet",
+    "minecraft:yellow_carpet"
+  ],
+  "result": {
+    "id": "minecraft:yellow_wool",
+    "count": 2
+  }
+}
