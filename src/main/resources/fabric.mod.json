@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "forgiveness",
+  "version": "${version}",
+  "name": "Forgiveness",
+  "description": "This mod will allow you to craft some things but in difficult recipes you will lose some of the things that this item consisted of. Also, you can find some new useful recipes.\n",
+  "authors": [
+    "Vital1kS"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.vital1ks.forgiveness.ForgivenessMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.8",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
