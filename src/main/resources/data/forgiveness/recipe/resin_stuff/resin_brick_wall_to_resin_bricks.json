@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:resin_brick_wall"
-  ],
-  "result": {
-    "id": "minecraft:resin_bricks"
-  }
-}
