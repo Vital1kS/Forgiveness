@@ -1,10 +1,14 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:purpur_slab",
-    "minecraft:purpur_slab"
-  ],
-  "result": {
-    "id": "minecraft:purpur_block"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:purpur_slab"
+        },
+        {
+            "item": "minecraft:purpur_slab"
+        }
+    ],
+    "result": {
+        "id": "minecraft:purpur_block"
+    }
 }

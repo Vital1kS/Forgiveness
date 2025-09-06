@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:red_sandstone_wall"
-  ],
-  "result": {
-    "id": "minecraft:red_sandstone"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:red_sandstone_wall"
+        }
+    ],
+    "result": {
+        "id": "minecraft:red_sandstone"
+    }
 }

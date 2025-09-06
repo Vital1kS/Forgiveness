@@ -1,12 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:mangrove_fence",
-    "minecraft:mangrove_fence",
-    "minecraft:mangrove_fence"
-  ],
-  "result": {
-    "id": "minecraft:mangrove_planks",
-    "count": 5
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:mangrove_fence"
+        },
+        {
+            "item": "minecraft:mangrove_fence"
+        },
+        {
+            "item": "minecraft:mangrove_fence"
+        }
+    ],
+    "result": {
+        "id": "minecraft:mangrove_planks",
+        "count": 5
+    }
 }

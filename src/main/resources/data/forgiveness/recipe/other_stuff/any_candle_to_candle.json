@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "#minecraft:candles"
-  ],
-  "result": {
-    "id": "minecraft:candle"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:candles"
+        }
+    ],
+    "result": {
+        "id": "minecraft:candle"
+    }
 }

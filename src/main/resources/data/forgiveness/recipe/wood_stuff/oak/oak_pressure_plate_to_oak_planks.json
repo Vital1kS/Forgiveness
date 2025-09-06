@@ -1,10 +1,12 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-      "minecraft:oak_pressure_plate"
+        {
+            "item": "minecraft:oak_pressure_plate"
+        }
     ],
     "result": {
-      "id": "minecraft:oak_planks",
-      "count": 2
+        "id": "minecraft:oak_planks",
+        "count": 2
     }
-  }
+}

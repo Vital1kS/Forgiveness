@@ -1,9 +1,11 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-      "minecraft:cobweb"
+        {
+            "item": "minecraft:cobweb"
+        }
     ],
     "result": {
-      "id": "minecraft:string"
+        "id": "minecraft:string"
     }
-  }
+}

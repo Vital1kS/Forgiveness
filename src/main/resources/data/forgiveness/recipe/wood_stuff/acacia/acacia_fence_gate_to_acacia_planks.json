@@ -1,10 +1,12 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:acacia_fence_gate"
-  ],
-  "result": {
-    "id": "minecraft:acacia_planks",
-    "count": 4
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:acacia_fence_gate"
+        }
+    ],
+    "result": {
+        "id": "minecraft:acacia_planks",
+        "count": 4
+    }
 }

@@ -1,12 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:bamboo_fence",
-    "minecraft:bamboo_fence",
-    "minecraft:bamboo_fence"
-  ],
-  "result": {
-    "id": "minecraft:bamboo_planks",
-    "count": 5
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bamboo_fence"
+        },
+        {
+            "item": "minecraft:bamboo_fence"
+        },
+        {
+            "item": "minecraft:bamboo_fence"
+        }
+    ],
+    "result": {
+        "id": "minecraft:bamboo_planks",
+        "count": 5
+    }
 }

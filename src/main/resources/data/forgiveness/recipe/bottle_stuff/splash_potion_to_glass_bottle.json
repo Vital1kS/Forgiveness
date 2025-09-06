@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:splash_potion"
-  ],
-  "result": {
-    "id": "minecraft:glass_bottle"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:splash_potion"
+        }
+    ],
+    "result": {
+        "id": "minecraft:glass_bottle"
+    }
 }

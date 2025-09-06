@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "#minecraft:wool_carpets"
-  ],
-  "result": {
-    "id": "minecraft:white_carpet"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:wool_carpets"
+        }
+    ],
+    "result": {
+        "id": "minecraft:white_carpet"
+    }
 }

@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:tipped_arrow"
-  ],
-  "result": {
-    "id": "minecraft:arrow"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:tipped_arrow"
+        }
+    ],
+    "result": {
+        "id": "minecraft:arrow"
+    }
 }

@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:warped_hanging_sign"
-  ],
-  "result": {
-    "id": "minecraft:stripped_warped_stem"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:warped_hanging_sign"
+        }
+    ],
+    "result": {
+        "id": "minecraft:stripped_warped_stem"
+    }
 }

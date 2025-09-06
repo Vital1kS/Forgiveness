@@ -1,12 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:spruce_fence",
-    "minecraft:spruce_fence",
-    "minecraft:spruce_fence"
-  ],
-  "result": {
-    "id": "minecraft:spruce_planks",
-    "count": 5
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:spruce_fence"
+        },
+        {
+            "item": "minecraft:spruce_fence"
+        },
+        {
+            "item": "minecraft:spruce_fence"
+        }
+    ],
+    "result": {
+        "id": "minecraft:spruce_planks",
+        "count": 5
+    }
 }

@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:bamboo_button"
-  ],
-  "result": {
-    "id": "minecraft:bamboo_planks"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bamboo_button"
+        }
+    ],
+    "result": {
+        "id": "minecraft:bamboo_planks"
+    }
 }

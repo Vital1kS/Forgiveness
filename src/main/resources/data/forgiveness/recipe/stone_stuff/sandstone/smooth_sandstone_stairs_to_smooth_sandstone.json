@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:smooth_sandstone_stairs"
-  ],
-  "result": {
-    "id": "minecraft:smooth_sandstone"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:smooth_sandstone_stairs"
+        }
+    ],
+    "result": {
+        "id": "minecraft:smooth_sandstone"
+    }
 }

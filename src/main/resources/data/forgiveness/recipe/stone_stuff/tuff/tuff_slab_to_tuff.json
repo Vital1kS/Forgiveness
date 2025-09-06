@@ -1,12 +1,14 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "__"
-  ],
-  "key": {
-    "_": "minecraft:tuff_slab"
-  },
-  "result": {
-    "id": "minecraft:tuff"
-  }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "__"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:tuff_slab"
+        }
+    },
+    "result": {
+        "id": "minecraft:tuff"
+    }
 }

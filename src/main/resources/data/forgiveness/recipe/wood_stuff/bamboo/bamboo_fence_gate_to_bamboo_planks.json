@@ -1,10 +1,12 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:bamboo_fence_gate"
-  ],
-  "result": {
-    "id": "minecraft:bamboo_planks",
-    "count": 4
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bamboo_fence_gate"
+        }
+    ],
+    "result": {
+        "id": "minecraft:bamboo_planks",
+        "count": 4
+    }
 }

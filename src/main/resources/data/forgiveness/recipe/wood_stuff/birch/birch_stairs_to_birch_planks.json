@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:birch_stairs"
-  ],
-  "result": {
-    "id": "minecraft:birch_planks"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:birch_stairs"
+        }
+    ],
+    "result": {
+        "id": "minecraft:birch_planks"
+    }
 }

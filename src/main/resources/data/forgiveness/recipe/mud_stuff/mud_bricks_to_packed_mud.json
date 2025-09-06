@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:mud_bricks"
-  ],
-  "result": {
-    "id": "minecraft:packed_mud"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:mud_bricks"
+        }
+    ],
+    "result": {
+        "id": "minecraft:packed_mud"
+    }
 }

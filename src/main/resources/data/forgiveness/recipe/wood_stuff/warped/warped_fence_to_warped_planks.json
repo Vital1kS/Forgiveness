@@ -1,12 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:warped_fence",
-    "minecraft:warped_fence",
-    "minecraft:warped_fence"
-  ],
-  "result": {
-    "id": "minecraft:warped_planks",
-    "count": 5
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:warped_fence"
+        },
+        {
+            "item": "minecraft:warped_fence"
+        },
+        {
+            "item": "minecraft:warped_fence"
+        }
+    ],
+    "result": {
+        "id": "minecraft:warped_planks",
+        "count": 5
+    }
 }

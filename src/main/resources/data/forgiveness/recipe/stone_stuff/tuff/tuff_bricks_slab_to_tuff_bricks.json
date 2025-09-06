@@ -1,12 +1,14 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "__"
-  ],
-  "key": {
-    "_": "minecraft:tuff_brick_slab"
-  },
-  "result": {
-    "id": "minecraft:tuff_bricks"
-  }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "__"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:tuff_brick_slab"
+        }
+    },
+    "result": {
+        "id": "minecraft:tuff_bricks"
+    }
 }
