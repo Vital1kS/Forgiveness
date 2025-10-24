@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:oak_shelf"
+  ],
+  "result": {
+    "id": "minecraft:stripped_oak_log"
+  }
+}

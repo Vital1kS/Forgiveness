@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:bamboo_shelf"
+  ],
+  "result": {
+    "id": "minecraft:stripped_bamboo_block"
+  }
+}

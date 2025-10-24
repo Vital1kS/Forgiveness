@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:acacia_shelf"
+  ],
+  "result": {
+    "id": "minecraft:stripped_acacia_log"
+  }
+}

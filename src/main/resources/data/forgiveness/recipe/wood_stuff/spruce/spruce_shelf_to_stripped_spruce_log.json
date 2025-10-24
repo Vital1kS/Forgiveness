@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:pale_spruce_shelf"
+  ],
+  "result": {
+    "id": "minecraft:stripped_spruce_log"
+  }
+}

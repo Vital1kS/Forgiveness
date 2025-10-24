@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:warped_shelf"
+  ],
+  "result": {
+    "id": "minecraft:stripped_warped_stem"
+  }
+}
