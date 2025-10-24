@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:copper_bars",
+    "minecraft:copper_bars",
+    "minecraft:copper_bars"
+  ],
+  "result": {
+    "id": "minecraft:copper_ingot"
+  }
+}
