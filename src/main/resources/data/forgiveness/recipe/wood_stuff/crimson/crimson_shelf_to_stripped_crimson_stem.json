@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:crimson_shelf"
+  ],
+  "result": {
+    "id": "minecraft:stripped_crimson_stem"
+  }
+}
