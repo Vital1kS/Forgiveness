@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:copper_torch"
+  ],
+  "result": {
+    "id": "minecraft:torch"
+  }
+}
