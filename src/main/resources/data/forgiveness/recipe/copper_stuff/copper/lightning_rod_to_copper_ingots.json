@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:lightning_rod"
+  ],
+  "result": {
+    "id": "minecraft:copper_ingot",
+    "count": 3
+  }
+}
