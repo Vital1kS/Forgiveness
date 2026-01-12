@@ -1,7 +1,9 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": "minecraft:waxed_weathered_copper",
-  "result": {
-    "id": "minecraft:waxed_weathered_cut_copper_stairs"
-  }
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:waxed_weathered_copper"
+    },
+    "result": {
+        "id": "minecraft:waxed_weathered_cut_copper_stairs"
+    }
 }

@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:waxed_weathered_chiseled_copper"
-  ],
-  "result": {
-    "id": "minecraft:waxed_weathered_cut_copper"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:waxed_weathered_chiseled_copper"
+        }
+    ],
+    "result": {
+        "id": "minecraft:waxed_weathered_cut_copper"
+    }
 }

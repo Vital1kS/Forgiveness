@@ -1,10 +1,14 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:red_sandstone_slab",
-    "minecraft:red_sandstone_slab"
-  ],
-  "result": {
-    "id": "minecraft:red_sandstone"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:red_sandstone_slab"
+        },
+        {
+            "item": "minecraft:red_sandstone_slab"
+        }
+    ],
+    "result": {
+        "id": "minecraft:red_sandstone"
+    }
 }

@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:spruce_stairs"
-  ],
-  "result": {
-    "id": "minecraft:spruce_planks"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:spruce_stairs"
+        }
+    ],
+    "result": {
+        "id": "minecraft:spruce_planks"
+    }
 }

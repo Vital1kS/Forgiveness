@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:oak_hanging_sign"
-  ],
-  "result": {
-    "id": "minecraft:stripped_oak_log"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:oak_hanging_sign"
+        }
+    ],
+    "result": {
+        "id": "minecraft:stripped_oak_log"
+    }
 }

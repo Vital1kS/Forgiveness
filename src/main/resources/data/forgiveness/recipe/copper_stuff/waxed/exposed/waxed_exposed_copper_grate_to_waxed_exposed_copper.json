@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:waxed_exposed_copper_grate"
-  ],
-  "result": {
-    "id": "minecraft:waxed_exposed_copper"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:waxed_exposed_copper_grate"
+        }
+    ],
+    "result": {
+        "id": "minecraft:waxed_exposed_copper"
+    }
 }

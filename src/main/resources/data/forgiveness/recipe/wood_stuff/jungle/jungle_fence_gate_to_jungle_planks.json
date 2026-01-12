@@ -1,10 +1,12 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:jungle_fence_gate"
-  ],
-  "result": {
-    "id": "minecraft:jungle_planks",
-    "count": 4
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:jungle_fence_gate"
+        }
+    ],
+    "result": {
+        "id": "minecraft:jungle_planks",
+        "count": 4
+    }
 }

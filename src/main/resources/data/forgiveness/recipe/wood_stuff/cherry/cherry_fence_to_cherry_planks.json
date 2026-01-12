@@ -1,12 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:cherry_fence",
-    "minecraft:cherry_fence",
-    "minecraft:cherry_fence"
-  ],
-  "result": {
-    "id": "minecraft:cherry_planks",
-    "count": 5
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cherry_fence"
+        },
+        {
+            "item": "minecraft:cherry_fence"
+        },
+        {
+            "item": "minecraft:cherry_fence"
+        }
+    ],
+    "result": {
+        "id": "minecraft:cherry_planks",
+        "count": 5
+    }
 }

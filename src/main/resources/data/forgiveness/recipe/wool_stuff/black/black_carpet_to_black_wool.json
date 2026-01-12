@@ -1,12 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:black_carpet",
-    "minecraft:black_carpet",
-    "minecraft:black_carpet"
-  ],
-  "result": {
-    "id": "minecraft:black_wool",
-    "count": 2
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:black_carpet"
+        },
+        {
+            "item": "minecraft:black_carpet"
+        },
+        {
+            "item": "minecraft:black_carpet"
+        }
+    ],
+    "result": {
+        "id": "minecraft:black_wool",
+        "count": 2
+    }
 }

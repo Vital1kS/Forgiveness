@@ -1,11 +1,15 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:stripped_cherry_wood",
-    "minecraft:stripped_cherry_wood"
-  ],
-  "result": {
-    "id": "minecraft:cherry_wood",
-      "count": 2
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stripped_cherry_wood"
+        },
+        {
+            "item": "minecraft:stripped_cherry_wood"
+        }
+    ],
+    "result": {
+        "id": "minecraft:cherry_wood",
+        "count": 2
+    }
 }

@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:brick_stairs"
-  ],
-  "result": {
-    "id": "minecraft:bricks"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:brick_stairs"
+        }
+    ],
+    "result": {
+        "id": "minecraft:bricks"
+    }
 }

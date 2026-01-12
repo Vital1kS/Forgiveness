@@ -1,10 +1,14 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:stone_slab",
-    "minecraft:stone_slab"
-  ],
-  "result": {
-    "id": "minecraft:stone"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stone_slab"
+        },
+        {
+            "item": "minecraft:stone_slab"
+        }
+    ],
+    "result": {
+        "id": "minecraft:stone"
+    }
 }

@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:cobblestone_stairs"
-  ],
-  "result": {
-    "id": "minecraft:cobblestone"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cobblestone_stairs"
+        }
+    ],
+    "result": {
+        "id": "minecraft:cobblestone"
+    }
 }

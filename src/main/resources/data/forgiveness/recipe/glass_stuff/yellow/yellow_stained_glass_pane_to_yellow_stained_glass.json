@@ -1,17 +1,33 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:yellow_stained_glass_pane",
-    "minecraft:yellow_stained_glass_pane",
-    "minecraft:yellow_stained_glass_pane",
-    "minecraft:yellow_stained_glass_pane",
-    "minecraft:yellow_stained_glass_pane",
-    "minecraft:yellow_stained_glass_pane",
-    "minecraft:yellow_stained_glass_pane",
-    "minecraft:yellow_stained_glass_pane"
-  ],
-  "result": {
-    "id": "minecraft:yellow_stained_glass",
-    "count": 3
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:yellow_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:yellow_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:yellow_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:yellow_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:yellow_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:yellow_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:yellow_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:yellow_stained_glass_pane"
+        }
+    ],
+    "result": {
+        "id": "minecraft:yellow_stained_glass",
+        "count": 3
+    }
 }

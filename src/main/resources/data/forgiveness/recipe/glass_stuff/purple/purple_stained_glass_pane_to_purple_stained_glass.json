@@ -1,17 +1,33 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:purple_stained_glass_pane",
-    "minecraft:purple_stained_glass_pane",
-    "minecraft:purple_stained_glass_pane",
-    "minecraft:purple_stained_glass_pane",
-    "minecraft:purple_stained_glass_pane",
-    "minecraft:purple_stained_glass_pane",
-    "minecraft:purple_stained_glass_pane",
-    "minecraft:purple_stained_glass_pane"
-  ],
-  "result": {
-    "id": "minecraft:purple_stained_glass",
-    "count": 3
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:purple_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:purple_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:purple_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:purple_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:purple_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:purple_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:purple_stained_glass_pane"
+        },
+        {
+            "item": "minecraft:purple_stained_glass_pane"
+        }
+    ],
+    "result": {
+        "id": "minecraft:purple_stained_glass",
+        "count": 3
+    }
 }

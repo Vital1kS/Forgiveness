@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:sticky_piston"
-  ],
-  "result": {
-    "id": "minecraft:piston"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:sticky_piston"
+        }
+    ],
+    "result": {
+        "id": "minecraft:piston"
+    }
 }

@@ -1,12 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:green_carpet",
-    "minecraft:green_carpet",
-    "minecraft:green_carpet"
-  ],
-  "result": {
-    "id": "minecraft:green_wool",
-    "count": 2
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:green_carpet"
+        },
+        {
+            "item": "minecraft:green_carpet"
+        },
+        {
+            "item": "minecraft:green_carpet"
+        }
+    ],
+    "result": {
+        "id": "minecraft:green_wool",
+        "count": 2
+    }
 }

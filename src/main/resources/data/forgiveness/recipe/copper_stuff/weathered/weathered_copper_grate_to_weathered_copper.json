@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:weathered_copper_grate"
-  ],
-  "result": {
-    "id": "minecraft:weathered_copper"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:weathered_copper_grate"
+        }
+    ],
+    "result": {
+        "id": "minecraft:weathered_copper"
+    }
 }

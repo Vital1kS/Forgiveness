@@ -1,12 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:lime_carpet",
-    "minecraft:lime_carpet",
-    "minecraft:lime_carpet"
-  ],
-  "result": {
-    "id": "minecraft:lime_wool",
-    "count": 2
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:lime_carpet"
+        },
+        {
+            "item": "minecraft:lime_carpet"
+        },
+        {
+            "item": "minecraft:lime_carpet"
+        }
+    ],
+    "result": {
+        "id": "minecraft:lime_wool",
+        "count": 2
+    }
 }

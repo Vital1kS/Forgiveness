@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:polished_tuff_wall"
-  ],
-  "result": {
-    "id": "minecraft:polished_tuff"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:polished_tuff_wall"
+        }
+    ],
+    "result": {
+        "id": "minecraft:polished_tuff"
+    }
 }

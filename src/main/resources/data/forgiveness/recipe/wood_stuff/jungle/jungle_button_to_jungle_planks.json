@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:jungle_button"
-  ],
-  "result": {
-    "id": "minecraft:jungle_planks"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:jungle_button"
+        }
+    ],
+    "result": {
+        "id": "minecraft:jungle_planks"
+    }
 }

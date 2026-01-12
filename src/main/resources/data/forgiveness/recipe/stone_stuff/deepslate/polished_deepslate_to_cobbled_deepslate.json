@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:polished_deepslate"
-  ],
-  "result": {
-    "id": "minecraft:cobbled_deepslate"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:polished_deepslate"
+        }
+    ],
+    "result": {
+        "id": "minecraft:cobbled_deepslate"
+    }
 }

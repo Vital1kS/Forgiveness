@@ -1,10 +1,14 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-      "minecraft:tinted_glass",
-      "minecraft:tinted_glass"
+        {
+            "item": "minecraft:tinted_glass"
+        },
+        {
+            "item": "minecraft:tinted_glass"
+        }
     ],
     "result": {
-      "id": "minecraft:glass"
+        "id": "minecraft:glass"
     }
-  }
+}

@@ -1,10 +1,14 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:deepslate_brick_slab",
-    "minecraft:deepslate_brick_slab"
-  ],
-  "result": {
-    "id": "minecraft:deepslate_bricks"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:deepslate_brick_slab"
+        },
+        {
+            "item": "minecraft:deepslate_brick_slab"
+        }
+    ],
+    "result": {
+        "id": "minecraft:deepslate_bricks"
+    }
 }

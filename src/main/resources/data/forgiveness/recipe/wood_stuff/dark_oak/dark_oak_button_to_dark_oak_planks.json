@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:dark_oak_button"
-  ],
-  "result": {
-    "id": "minecraft:dark_oak_planks"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:dark_oak_button"
+        }
+    ],
+    "result": {
+        "id": "minecraft:dark_oak_planks"
+    }
 }

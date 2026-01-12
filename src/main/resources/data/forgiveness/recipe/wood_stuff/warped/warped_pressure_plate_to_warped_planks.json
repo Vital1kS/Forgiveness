@@ -1,10 +1,12 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-      "minecraft:warped_pressure_plate"
+        {
+            "item": "minecraft:warped_pressure_plate"
+        }
     ],
     "result": {
-      "id": "minecraft:warped_planks",
-      "count": 2
+        "id": "minecraft:warped_planks",
+        "count": 2
     }
-  }
+}

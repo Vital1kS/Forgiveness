@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:deepslate_bricks"
-  ],
-  "result": {
-    "id": "minecraft:polished_deepslate"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:deepslate_bricks"
+        }
+    ],
+    "result": {
+        "id": "minecraft:polished_deepslate"
+    }
 }

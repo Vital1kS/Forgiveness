@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:oak_stairs"
-  ],
-  "result": {
-    "id": "minecraft:oak_planks"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:oak_stairs"
+        }
+    ],
+    "result": {
+        "id": "minecraft:oak_planks"
+    }
 }

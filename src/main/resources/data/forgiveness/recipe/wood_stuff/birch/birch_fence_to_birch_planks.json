@@ -1,12 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:birch_fence",
-    "minecraft:birch_fence",
-    "minecraft:birch_fence"
-  ],
-  "result": {
-    "id": "minecraft:birch_planks",
-    "count": 5
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:birch_fence"
+        },
+        {
+            "item": "minecraft:birch_fence"
+        },
+        {
+            "item": "minecraft:birch_fence"
+        }
+    ],
+    "result": {
+        "id": "minecraft:birch_planks",
+        "count": 5
+    }
 }

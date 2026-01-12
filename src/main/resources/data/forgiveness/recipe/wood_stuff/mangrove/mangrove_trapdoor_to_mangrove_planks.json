@@ -1,10 +1,12 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:mangrove_trapdoor"
-  ],
-  "result": {
-    "id": "minecraft:mangrove_planks",
-    "count": 3
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:mangrove_trapdoor"
+        }
+    ],
+    "result": {
+        "id": "minecraft:mangrove_planks",
+        "count": 3
+    }
 }

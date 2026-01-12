@@ -1,9 +1,11 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "minecraft:purpur_stairs"
-  ],
-  "result": {
-    "id": "minecraft:purpur_block"
-  }
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:purpur_stairs"
+        }
+    ],
+    "result": {
+        "id": "minecraft:purpur_block"
+    }
 }
