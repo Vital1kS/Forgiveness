@@ -36,10 +36,10 @@ logoFile="icon.png" #optional
 #credits="" #optional
 
 # A text field displayed in the mod UI
-authors="${mod_authors}" #optional
+authors="Vital1kS" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
-description='''${mod_description}'''
+description='''This mod will allow you to craft some things but in difficult recipes you will lose some of the things that this item consisted of. Also, you can find some new useful recipes.'''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
 #[[mixins]]
